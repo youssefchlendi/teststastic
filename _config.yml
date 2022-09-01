@@ -1,6 +1,6 @@
 title: First stastic try
 description: This is my first time trying stastic package
-social_link: facebook
+social_link: twitter
 social_username: youssef.chlendi
 github_repo: teststastic
 github_username: youssefchlendi
@@ -30,7 +30,6 @@ social_links:
   - instagram
   - medium
   - dribbble
-  - facebook
 theme_colors:
   - black
   - blue
