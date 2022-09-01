@@ -1,38 +1,25 @@
-
-# SEO
-title: Swiss Jekyll Theme
-description: A bold typographic theme inspired by Swiss design.
-
-# social
-social_link: twitter
-social_username: broccolini
-github_repo: athena # the GitHub repo name for your project
-github_username: broccolini
+title: First stastic try
+description: This is my first time trying stastic package
+social_link: faceboo
+social_username: youssef.chlendi
+github_repo: teststastic
+github_username: youssefchlendi
 theme_color: black
-
-# Theme
-remote_theme: 'internet-de-france/swiss'
-baseurl: '/teststastic'
-
-# Defaults
-
+remote_theme: internet-de-france/swiss
+baseurl: /teststastic
 defaults:
-  -
-    scope:
-      path: ""
-      type: "pages"
+  - scope:
+      path: ''
+      type: pages
     values:
-      category_name: ""
-  -
-    scope:
-      path: ""
-      type: "posts"
+      category_name: ''
+  - scope:
+      path: ''
+      type: posts
     values:
-      categories: ""
-
-# Stastic UI
-remote_theme_layouts: 
-  - ""
+      categories: ''
+remote_theme_layouts:
+  - ''
   - default
   - page
   - post
@@ -43,7 +30,6 @@ social_links:
   - instagram
   - medium
   - dribbble
-
 theme_colors:
   - black
   - blue
@@ -53,5 +39,3 @@ theme_colors:
   - red
   - white
   - yellow
-
-
